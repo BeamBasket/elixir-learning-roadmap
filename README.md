@@ -1,40 +1,23 @@
 # Elixir, Phoenix Learning Roadmap
 
-A list of learning resources in incremental form.
-Covers links to blogs, videos. Topic wise.
+#Bookmarks to helpful blogs, discussion threads and videos, Topic wise.
 
-- Paid Books and video tutorials in seperate section at the end.
+# Elixir and Phoenix has a very documentation.
+Elixir School has great blogs and examples.
+
+## Paid Books and video tutorials in seperate section at the end.
 
 ## Functional Programming basics.
 - [Functional Design Patterns - Scott Wlaschin](https://youtu.be/srQt1NAHYC0)
 
 
-## Elixir
+## PETAL stack i.e TailwindCSS
+- [podcast - changelog](https://changelog.com/posts/petal-the-end-to-end-web-stack)
+- [blog - getting started with PETAL](https://underjord.io/getting-started-with-petal.html)
 
+## CI - CD
 
-
-### `=` operator
-
-### map
-- Enum
-
-### List comprehension
-
-## Authentication
-- library and blog link
-
-## Ecto
-
-### cast_assoc, put_assoc
-
-
-## Phoenix LiveView
-
-### Apps
-- todo app
-
-## Testing
-- wallaby video
 
 ## Paid resources
 ## Books and videos
+Paid - [Testing Liveview](https://www.testingliveview.com/)
